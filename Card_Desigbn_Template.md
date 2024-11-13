@@ -1,1 +1,0 @@
-- **This is designed by using HTML,CSS and JavaScript to design a card
