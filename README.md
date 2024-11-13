@@ -1,2 +1,2 @@
-# Animated_Testimonials_19-08-23
+# Animated_Card_Template
 Learn how to create an impressive testimonials section using just HTML and CSS.
